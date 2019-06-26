@@ -271,7 +271,7 @@ g.map(plt.hist, 'text length')
 
 
 
-![png](Natural%20Language%20Processing%20Project_files/Natural%20Language%20Processing%20Project_10_1.png)
+![png](images/Natural%20Language%20Processing%20Project_10_1.png)
 
 
 
@@ -287,7 +287,7 @@ sns.boxplot(x='stars', y='text length', data=yelp, palette='rainbow')
 
 
 
-![png](Natural%20Language%20Processing%20Project_files/Natural%20Language%20Processing%20Project_11_1.png)
+![png](images/Natural%20Language%20Processing%20Project_11_1.png)
 
 
 
@@ -303,7 +303,7 @@ sns.countplot(x='stars', data=yelp, palette='rainbow')
 
 
 
-![png](Natural%20Language%20Processing%20Project_files/Natural%20Language%20Processing%20Project_12_1.png)
+![png](images/Natural%20Language%20Processing%20Project_12_1.png)
 
 
 
@@ -468,7 +468,7 @@ sns.heatmap(stars.corr(), cmap='coolwarm', annot=True)
 
 
 
-![png](Natural%20Language%20Processing%20Project_files/Natural%20Language%20Processing%20Project_15_1.png)
+![png](images/Natural%20Language%20Processing%20Project_15_1.png)
 
 
 ## NLP Classification
